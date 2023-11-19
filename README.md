@@ -1,7 +1,7 @@
 # todo_app_ptoject
 
 
-# Descreption:
+## Descreption:
 Todo app that allow the user to add a task, change task's state and delete task.
 
 ## Screesnshot:
